@@ -1,0 +1,364 @@
+* {
+  margin: 0;
+}
+
+p {
+  color: black;
+}
+
+.six {
+  color: #FF69A3;
+  font-size: 45px;
+}
+
+.Fan {
+  color: #FF69A3;
+  font-size: 60px;
+}
+
+.video-container {
+  position: relative;
+}
+
+.video-sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+video {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.Fare {
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 200px;
+  line-height: 0.5em;
+}
+
+.logo {
+  text-align: center;
+}
+
+.file {
+  width: 700px;
+  text-align: center;
+  margin: 50px 0 100px 0;
+  height: 700px
+}
+
+.one {
+  padding-left: 7px;
+}
+
+.two {
+  margin: 0;
+  padding-left: 15px;
+  padding-bottom: 48px;
+}
+
+  .about {
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 22px;
+  }
+
+  .six {
+    text-align: center;
+    margin-top: 50px;
+    color: #FFFFFF;
+  }
+
+.Fan {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+p {
+  margin-left: 5px;
+  letter-spacing:2px;
+  margin-bottom:20px;
+}
+
+section {
+  background-color:	#FF66CC;
+  margin-top: 0;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 30px;
+}
+
+
+a {
+  color: #FF66CC;
+  position: inline-block;
+}
+
+.lolo {
+  width: 100px;
+  margin-left: 40px;
+}
+
+.lolo:hover {
+ transform: rotateY(180deg);
+}
+
+p {
+  color: #FFFFFF;
+}
+
+.three {
+  width:  150px;
+}
+
+.four {
+  width: 150px;
+}
+
+.five {
+  width: 150px
+}
+
+.table {
+  padding-left: 160px;
+  padding-right: 160px;
+}
+
+.twitter-timeline {
+  margin-left: 170px;
+  padding-top: 170px;
+  background-color: #F8F8FF;
+
+}
+
+.plof {
+  padding-top: 50px;
+  padding-left: 630px;
+  font-size: 33px;
+}
+
+.tame {
+  color: #000000;
+}
+
+.ann {
+    height: 1px;
+    background-color: black;
+    width: 5%;
+    margin-bottom: 50px;
+    margin-left: 670px;
+    margin-top: 15px;
+   }
+
+   .fill {
+     width: 300px;
+   }
+
+   .nayeon {
+     padding-left: 260px;
+     margin-right: 7px;
+   }
+
+   .joengyeon {
+     margin-right: 7px;
+   }
+
+   .sana {
+    padding-left: 260px;
+    margin-right: 7px;
+   }
+
+   .jihyo {
+    margin-right: 7px;
+   }
+
+   .dahyun {
+    padding-left: 260px;
+    margin-right: 7px;
+   }
+
+   .chayoung {
+    margin-right: 7px; 
+   }
+
+   .imagethree {
+     padding-bottom: 80px;
+   }
+
+   .nayeontwo  {
+     background-color: #66FFFF;
+     height: 713px;
+   }
+
+   .tatenayeon {
+     height:713px;
+   }
+   
+   .midashinayeon {
+     font-size: 100px;
+     padding-left: 150px;
+   }
+
+   .huriganayeon {
+     font-size: 70px;
+     padding-left: 270px;
+     color: #FFFFFF;
+     opacity: 0.5;
+   }
+
+   .text {
+     padding-top: 45px;
+     padding-left: 80px;
+     font-weight: 900;
+   }
+
+   .seinengappinayeon {
+    padding-left: 270px
+   }
+
+   .ketuekigatanayeon {
+    padding-left: 330px
+   }
+
+   .batu {
+     font-size: 100px;
+     color: #FFFFFF;
+   }
+
+   .batuu {
+     margin-left:30px;
+     transition: 5s;
+   }
+
+   .tophe {
+    text-decoration: none;
+    color: #FFFFFF;
+   }
+ 
+.batuu {
+    transform: rotateY(180deg); /* マウスオーバー時に回転 */
+}
+   
+.jeongyeontwo {
+  background-color: #CCFF66;
+}
+
+
+
+.huriganajeongyeon {
+  font-size: 70px;
+     padding-left: 200px;
+     color: #FFFFFF;
+     opacity: 0.5;
+}
+
+.midashijeongyeon {
+  font-size: 100px;
+  padding-left: 45px;
+}
+
+.momotwo {
+  background-color: #FF99CC;
+}
+
+.momomidashi {
+  font-size: 100px;
+  padding-left: 186px;
+}
+
+.huriganamomo {
+  font-size: 70px;
+     padding-left: 291px;
+     color: #FFFFFF;
+     opacity: 0.5;
+}
+
+.sanatwo {
+  background-color: #CC99FF;
+}
+
+.midashisana {
+  font-size: 100px;
+  padding-left: 202px;
+}
+
+.jihyotwo {
+  background-color: #FFD700;
+}
+
+.midashijihyo {
+  font-size: 100px;
+  padding-left: 205px;
+}
+
+.minatwo {
+  background-color: #66FFCC	;
+}
+
+.midashimina {
+  font-size: 100px;
+  padding-left: 220px;
+}
+
+.midashidahyun {
+  font-size: 100px;
+  padding-left: 124px;
+  color: #CC99FF;
+}
+
+.huriganadahyun {
+  font-size: 70px;
+     padding-left: 230px;
+     color: #CC99FF;
+     opacity: 0.5;
+}
+
+.dahyunthree {
+  color: #CC99FF;
+  padding-left: 270px
+}
+
+.dahyunnn {
+  color: #CC99FF;
+  padding-left: 330px
+}
+
+.tophee {
+  text-decoration: none;
+    color: #CC99FF;
+}
+
+.chaeyoungtwo {
+  background-color: #FF3333;
+}
+
+.midashichaeyoung {
+  font-size: 100px;
+  padding-left: 38px;
+}
+
+.huriganachaeyoung {
+  font-size: 70px;
+     padding-left: 248px;
+     opacity: 0.5;
+}
+
+.tzuyutwo {
+  background-color:#005FFF;
+}
+
+.midashitzuyu {
+  font-size: 100px;
+  padding-left: 175px;  
+}
